@@ -1,0 +1,25 @@
+{
+  "firmware": [
+    {
+      "version": "1.0.0",
+      "name": "Basic Blink",
+      "description": "Simple 1Hz on/off blink",
+      "filename": "basic_blink_v1.0.0.bin",
+      "url": "https://raw.githubusercontent.com/jimmcmillan/ESP32ThingPlusFlasher/main/firmware/basic_blink_v1.0.0.bin"
+    },
+    {
+      "version": "1.0.0",
+      "name": "Breathing Fade",
+      "description": "Smooth PWM fade in and out",
+      "filename": "breathing_fade_v1.0.0.bin",
+      "url": "https://raw.githubusercontent.com/jimmcmillan/ESP32ThingPlusFlasher/main/firmware/breathing_fade_v1.0.0.bin"
+    },
+    {
+      "version": "1.0.0",
+      "name": "Heartbeat",
+      "description": "Double pulse heartbeat pattern",
+      "filename": "heartbeat_v1.0.0.bin",
+      "url": "https://raw.githubusercontent.com/jimmcmillan/ESP32ThingPlusFlasher/main/firmware/heartbeat_v1.0.0.bin"
+    }
+  ]
+}
